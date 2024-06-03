@@ -1,0 +1,14 @@
+C:\Users\abbas\OneDrive\Documents\C#\CustomStringMethods\CustomStringMethods\bin\Debug\net8.0\CustomStringMethods.exe
+C:\Users\abbas\OneDrive\Documents\C#\CustomStringMethods\CustomStringMethods\bin\Debug\net8.0\CustomStringMethods.deps.json
+C:\Users\abbas\OneDrive\Documents\C#\CustomStringMethods\CustomStringMethods\bin\Debug\net8.0\CustomStringMethods.runtimeconfig.json
+C:\Users\abbas\OneDrive\Documents\C#\CustomStringMethods\CustomStringMethods\bin\Debug\net8.0\CustomStringMethods.dll
+C:\Users\abbas\OneDrive\Documents\C#\CustomStringMethods\CustomStringMethods\bin\Debug\net8.0\CustomStringMethods.pdb
+C:\Users\abbas\OneDrive\Documents\C#\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\CustomStringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\OneDrive\Documents\C#\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\CustomStringMethods.AssemblyInfoInputs.cache
+C:\Users\abbas\OneDrive\Documents\C#\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\CustomStringMethods.AssemblyInfo.cs
+C:\Users\abbas\OneDrive\Documents\C#\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\CustomStringMethods.csproj.CoreCompileInputs.cache
+C:\Users\abbas\OneDrive\Documents\C#\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\CustomStringMethods.dll
+C:\Users\abbas\OneDrive\Documents\C#\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\refint\CustomStringMethods.dll
+C:\Users\abbas\OneDrive\Documents\C#\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\CustomStringMethods.pdb
+C:\Users\abbas\OneDrive\Documents\C#\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\CustomStringMethods.genruntimeconfig.cache
+C:\Users\abbas\OneDrive\Documents\C#\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\ref\CustomStringMethods.dll
